@@ -3,7 +3,7 @@
 A WebSockets application demo.
 The app is the hot-potato-starter which get provide by the Codecademy for hands-on for
 
-# Files
+## Files
 * server.js => the file that server broadcast the data to the clients who get connected to the server.
 * public/index.html => the file for it display the data from the server the clients connected.
 * utils/constans.js => the file has the common constant value to use the type for it deliver the data between the server and clients.
